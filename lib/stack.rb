@@ -1,7 +1,7 @@
-require_relative '../linked_list'
+require_relative '../lib/linked_list'
 
 class Stack < List
-  protected :insert, :remove
+  protected :add, :remove
 
   def push(val)
     insert(Node.new(val))
