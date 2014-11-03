@@ -8,3 +8,7 @@ See examples of data structures in Ruby including:
 
 Credit:
 * Javier (stack and linked list), Sunny (linked list spec) and class examples
+
+License:
+
+MIT: [http://deirdre.mit-license.org/](http://deirdre.mit-license.org/)
