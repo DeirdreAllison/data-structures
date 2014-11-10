@@ -5,6 +5,8 @@ See examples of data structures in Ruby including:
 * Linked Lists
 * Stacks
 * Queues
+* Binary Tree
+  * Includes call at bottom to print out each traversal method for Apple's Executive Team instead of tests
 * Hash Table
   * Used Shift-Add-XOR hash
   * Each bucket uses a single linked list to manage collisions
