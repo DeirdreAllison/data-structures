@@ -1,4 +1,4 @@
-Node = Struct.new(:val, :nn)
+Node = Struct.new(:val, :key, :nn)
 
 class List
   attr_accessor :head, :count

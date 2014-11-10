@@ -84,11 +84,11 @@ class DoubleList
   end
 end
 
-l = DoubleList.new
-200.times do
-  n = DoubleNode.new(rand(100))
-  l.add_at_head(n)
-end
-puts l
-l.remove_all_duplicates(l.head)
-puts l
+# l = DoubleList.new
+# 200.times do
+#   n = DoubleNode.new(rand(100))
+#   l.add_at_head(n)
+# end
+# puts l
+# l.remove_all_duplicates(l.head)
+# puts l
