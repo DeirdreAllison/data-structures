@@ -4,7 +4,7 @@ class Stack < List
   protected :add, :remove
 
   def push(val)
-    insert(Node.new(val))
+    add(Node.new(val))
   end
 
   def pop
